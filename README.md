@@ -11,13 +11,18 @@
 </p>
 
 ## Profile
-Studying programming languages to become a Full Stack Dev   
+<p align="center">
+Studying programming languages to become a Full Stack Developer!</br>
+Ask me anything or email me.</br>
+Happy Coding!😊
 
 #react #nodejs #javascript #html #css
+</p>
 
 ### 👨‍💻 Programming languages
 
 <p>
+    <a href="https://github.com/topics/react"><img alt="REACT" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"</a> 
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
