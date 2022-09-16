@@ -17,7 +17,7 @@
 ## 😄 Profile
 <p align="center">
 Hi! I'm a Full Stack Developer!</br>
-Problably I'm coding now.</br>
+Probably I'm coding now.</br>
 Ask me anything or email me.</br>
 Happy Coding!😊
 
