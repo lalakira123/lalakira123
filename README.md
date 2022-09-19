@@ -10,8 +10,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/laerte-akira/">
     <img alt="linkedin" title="Access my Linkedin Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laerte-akira/)"/></a> 
-  <a href="https://www.instagram.com/laerteakira/">
-    <img alt="Instagram" title="Access my Instagram Profile" src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/laerteakira/"/></a> 
 </p>
 
 ## 😄 Profile
