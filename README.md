@@ -14,12 +14,16 @@
 
 ## 😄 Profile
 <p align="center">
-Hi! I'm a Full Stack Developer!</br>
+Hi! I'm a Full Stack Developer!</br></br>
+Currently Full Stack Developer at @Vayon Insurance Solutions</br>
+Studying Computer Science at @UFABC Federal University of ABC</br>
+First contact with Programming languages at @USP University of Sao Paulo</br></br>
+Always studying something to improve my code skills ...</br>
 Probably I'm coding now.</br>
 Ask me anything or email me.</br>
 Happy Coding!😊
 
-#react #nodejs #javascript #html #css
+#react #next #nodejs #typescript #javascript #html #css #java
 </p>
 
 ## 👨‍💻 Programming languages && Technologies
@@ -32,6 +36,7 @@ Happy Coding!😊
 </p>
 <p align="center">
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -48,8 +53,8 @@ Happy Coding!😊
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <a href="https://github.com/lalakira123">
-  <img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalakira123&layout=compact&langs_count=7&theme=dracula"/>
-  <img  width="400px" src="https://github-readme-stats.vercel.app/api?username=lalakira123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalakira123&layout=compact&langs_count=7&theme=dracula"/>
+  <img  width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=lalakira123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
 </details>
